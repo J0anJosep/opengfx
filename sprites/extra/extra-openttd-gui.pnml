@@ -53,15 +53,15 @@ replacenew ottd_gui2(OTTD_GUI, "", 38) {
 	[  34,  696,   9,   7,   0,   1, "sprites/png/gui/gui04.png"]                   // content download menu: empty check box
 	[  50,  696,   9,   7,   0,   1, "sprites/png/gui/gui04.png"]                   // content download menu: checked check box
 	[  66,  696,  10,  10,   0,   0, "sprites/png/gui/gui04.png"]                   // newgrf settings: warning icon
-	[  82,  696,   7,   7,   3,   3, "sprites/png/gui/gui04.png"]                   // window decoration: resize (ltr languages)
-	[  98,  696,   7,   4,   1,   2, "sprites/png/gui/gui04.png"]                   // window decoration: arrow up
-	[ 114,  696,   7,   4,   1,   2, "sprites/png/gui/gui04.png"]                   // window decoration: arrow down
-	[ 130,  696,   4,   7,   1,   1, "sprites/png/gui/gui04.png"]                   // window decoration: arrow left
-	[ 146,  696,   4,   7,   2,   1, "sprites/png/gui/gui04.png"]                   // window decoration: arrow right
-	[ 162,  696,   8,   8,   1,   1, "sprites/png/gui/gui04.png"]                   // window decoration: go to default directory
-	[ 178,  696,   9,   9,   1,   0, "sprites/png/gui/gui04.png"]                   // window decoration: (?) list (?)
-	[ 194,  696,   7,   8,   1,   1, "sprites/png/gui/gui04.png"]                   // window decoration: sticky window
-	[ 210,  696,   8,   8,   1,   1, "sprites/png/gui/gui04.png"]                   // window decoration: make window sticky
+	[ 180,    5,   7,   7,   3,   3, "sprites/png/jj/gui.png"]                   // window decoration: resize (ltr languages)
+	[ 195,    5,   7,   4,   1,   2, "sprites/png/jj/gui.png"]                   // window decoration: arrow up
+	[ 195,   13,   7,   4,   1,   2, "sprites/png/jj/gui.png"]                   // window decoration: arrow down
+	[ 210,    5,   4,   7,   1,   1, "sprites/png/jj/gui.png"]                   // window decoration: arrow left
+	[ 210,   13,   4,   7,   2,   1, "sprites/png/jj/gui.png"]                   // window decoration: arrow right
+	[ 295,    5,   8,   8,   1,   1, "sprites/png/jj/gui.png"]                   // window decoration: go to default directory
+	[ 220,    5,   9,   9,   1,   0, "sprites/png/jj/gui.png"]                   // window decoration: order list
+	[ 235,    5,   7,   8,   1,   1, "sprites/png/jj/gui.png"]                   // window decoration: sticky window
+	[ 245,    5,   8,   8,   1,   1, "sprites/png/jj/gui.png"]                   // window decoration: make window sticky
 	[ 226,  696,  20,  20,   0,   0, "sprites/png/gui/gui04.png"]                   // rail toolbar: autorail normal rail
 }
 alternative_sprites (ottd_gui2, ZOOM_LEVEL_IN_2X, BIT_DEPTH_8BPP) {
@@ -238,12 +238,12 @@ replacenew ottd_gui137(OTTD_GUI, "", 137) {
 	[ 290,  904,  32,  32,   0,   0, "sprites/png/gui/gui04.png"]                   // cursor waterways: build rivers
 }
 replacenew ottd_gui138(OTTD_GUI, "", 138) {
-	[ 338,  904,   7,   7,   1,   3, "sprites/png/gui/gui04.png"]                   // (?) arrow left
-	[ 354,  904,   7,   7,   2,   3, "sprites/png/gui/gui04.png"]                   // (?) arrow right
-	[ 370,  904,  10,   9,   0,   1, "sprites/png/gui/gui04.png"]                   // (?) arrow down
-	[ 386,  904,  10,   9,   0,   0, "sprites/png/gui/gui04.png"]                   // (?) arrow up
-	[ 402,  904,  11,   7,   0,   1, "sprites/png/gui/gui04.png"]                   // (?) arrow left
-	[ 418,  904,   9,   9,   0,   0, "sprites/png/gui/gui04.png"]                   // (?) command symbol
+	[  95,    5,   7,   7,   1,   3, "sprites/png/jj/gui.png"]                      // (?) arrow left
+	[ 110,    5,   7,   7,   2,   3, "sprites/png/jj/gui.png"]                      // (?) arrow right
+	[ 120,    5,  10,   9,   0,   1, "sprites/png/jj/gui.png"]                      // (?) arrow down
+	[ 135,    5,  10,   9,   0,   0, "sprites/png/jj/gui.png"]                      // (?) arrow up
+	[ 150,    5,  11,   7,   0,   1, "sprites/png/jj/gui.png"]                      // (?) arrow left
+	[ 165,    5,   9,   9,   0,   0, "sprites/png/jj/gui.png"]                      // (?) command symbol
 	[ 434,  904,  20,  20,   0,   0, "sprites/png/gui/gui04.png"]                   // main toolbar: switch toolbars
 	[ 466,  904,  20,  20,   0,   0, "sprites/png/gui/gui04.png"]                   // waterways toolbar: build aquaduct
 }
@@ -261,12 +261,12 @@ replacenew ottd_gui146(OTTD_GUI, "", 146) {
 	[ 498,  904,  32,  32,   0,   0, "sprites/png/gui/gui04.png"]                   // cursor waterways: build aquaduct
 }
 replacenew ottd_gui147(OTTD_GUI, "", 147) {
-	[   0,    0,  10,  10,   0,   0, "sprites/png/extra/extra-gui-plus-minus.png"]  // (?)
-	[  16,    0,  10,  10,   0,   0, "sprites/png/extra/extra-gui-plus-minus.png"]  // (?)
-	[  82,  705,   7,   7,   0,   3, "sprites/png/gui/gui04.png"]                   // window decorations: resize window (rtl languages)
-	[   2,  125,  20,  20,   0,   0, "sprites/png/gui/gui04.png"]                   // juke box: play (rtl languages)
-	[ 242,  352,   7,   8,   1,   1, "sprites/png/gui/gui04.png"]                   // (?) to bottom
-	[ 256,  352,   7,   8,   1,   1, "sprites/png/gui/gui04.png"]                   // (?) to top
+	[   0,    0,  10,  10,   0,   0, "sprites/png/jj/gui.png"]                      // "+" symbol for folding/unfolding settings
+	[  16,    0,  10,  10,   0,   0, "sprites/png/jj/gui.png"]                      // "-" symbol for folding/unfolding settings
+	[ 180,    5,   7,   7,   0,   3, "sprites/png/jj/gui.png"]                      // window decorations: resize window (rtl languages)
+	[ 395,    5,  20,  20,   0,   0, "sprites/png/jj/gui.png"]                      // juke box: play (rtl languages)
+	[ 260,    5,   7,   8,   1,   1, "sprites/png/jj/gui.png"]                      // fold/unfold window
+	[ 270,    5,   7,   8,   1,   1, "sprites/png/jj/gui.png"]                      // fold/unfold window
 }
 alternative_sprites (ottd_gui147, ZOOM_LEVEL_IN_2X, BIT_DEPTH_8BPP) {
 	tmpl_gui2x_file_caption(418, 712, "sprites/png/gui/gui2x.png")
@@ -303,8 +303,8 @@ replacenew ottd_gui162(OTTD_GUI, "", 162) {
 	[   0,   22,  10,  10,   0,   0, "sprites/png/gui/town_indicators.png"]         // appalling town rating, sad, red smily
 	[   0,   33,  10,  10,   0,   0, "sprites/png/gui/town_indicators.png"]         // mediocre town rating, yellow smily
 	[   0,   44,  10,  10,   0,   0, "sprites/png/gui/town_indicators.png"]         // very good town rating, happy, green smily
-	[   3,   10,  14,  10,   0,   0, "sprites/png/extra/extra-gui-delete.png"]      // delete to left
-	[  19,   10,  14,  10,   0,   0, "sprites/png/extra/extra-gui-delete.png"]      // delete to right
+	[   5,    5,  12,   7,   0,   0, "sprites/png/jj/gui.png"]                      // delete to left
+	[  20,    5,  12,   7,   0,   0, "sprites/png/jj/gui.png"]                      // delete to right
 	[   0,    0,   8,   8,   0,   0, NOCROP, "sprites/png/extra/extra-gui-window-default.png"]  // Window decorations: default size
 	[   0,    0,  20,  20,   0,   0, "sprites/png/extra/extra-gui-storybook.png"]   // story book main toolbar button
 	[  26,    0,  20,  20,   0,   0, "sprites/png/extra/extra-gui-storybook.png"]   // story book: inspect place
@@ -313,3 +313,129 @@ replacenew ottd_gui162(OTTD_GUI, "", 162) {
 	[ 104,    0,  20,  20,   0,   0, "sprites/png/extra/extra-gui-storybook.png"]   // story book: un-accessible goal
 	[   0,    0,  20,  20,   0,   0, "sprites/png/extra/extra-gui-cargoflow.png"]   // minimap: cargoflow icon
 }
+
+replacenew ottd_gui175(OTTD_GUI, "", 175) {
+	[  65,    5,   8,   8,   0,   0, NOCROP, "sprites/png/jj/gui.png"]              // filter icon
+	[  80,    5,   8,   8,   0,   0, NOCROP, "sprites/png/jj/gui.png"]              // filter groups icon
+
+	[ 100,    5,  64,  31, -33,   1, NOCROP, "sprites/png/jj/water_features.png"]   // lock water x
+	[   5,    5,  64,  31, -29,   1, NOCROP, "sprites/png/jj/water_features.png"]   // lock water y
+
+	[  97,  250,  40,  39, -34, -11, NOCROP, "sprites/png/jj/water_features.png"]   // lock upper comp
+	[ 139,  250,  42,  39,  -3, -10, NOCROP, "sprites/png/jj/water_features.png"]   // lock upper comp
+	[  51,  250,  40,  39,  -7, -13, NOCROP, "sprites/png/jj/water_features.png"]   // lock upper cutted
+	[   5,  250,  42,  39, -36, -12, NOCROP, "sprites/png/jj/water_features.png"]   // lock upper cutted
+
+	[ 275,  250,  40,  39,  -1, -11, NOCROP, "sprites/png/jj/water_features.png"]   // lock gate sw
+	[ 320,  250,  40,  39, -39, -11, NOCROP, "sprites/png/jj/water_features.png"]   // lock gate se
+
+	[   5,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
+	[  50,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
+	[  95,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
+	[ 140,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
+	[ 185,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
+	[ 230,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
+	[ 275,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
+	[ 320,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
+
+	[   5,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
+	[  50,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
+	[  95,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
+	[ 140,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
+	[ 185,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
+	[ 230,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
+	[ 275,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
+	[ 320,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
+
+	[   5,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[  50,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[  95,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[ 140,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[ 185,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[ 230,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[ 275,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[ 320,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+
+	[   5,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[  50,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[  95,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[ 140,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[ 185,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[ 230,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[ 275,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[ 320,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+
+	[  10,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
+	[  35,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
+	[  60,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
+	[  85,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
+	[ 110,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
+	[ 135,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
+	[ 160,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
+	[ 185,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
+	[ 210,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
+	[ 235,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
+	[ 260,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
+
+	[  10,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype cursors
+	[  45,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype cursors
+	[  80,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype cursors
+	[ 115,   35,  30,  32,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype cursors
+	[ 148,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype cursors
+	[ 183,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype cursors
+	[ 218,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype cursors
+	[ 253,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype cursors
+	[ 288,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype cursors
+	[ 323,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype cursors
+	[ 358,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype cursors
+
+	[  10,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype icons
+	[  35,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype icons
+	[  60,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype icons
+	[  85,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype icons
+	[ 110,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype icons
+	[ 135,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype icons
+	[ 160,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype icons
+	[ 185,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype icons
+	[ 210,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype icons
+	[ 235,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype icons
+	[ 260,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype icons
+
+	[  10,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype cursors
+	[  45,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype cursors
+	[  80,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype cursors
+	[ 115,   35,  30,  32,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype cursors
+	[ 148,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype cursors
+	[ 183,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype cursors
+	[ 218,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype cursors
+	[ 253,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype cursors
+	[ 288,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype cursors
+	[ 323,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype cursors
+	[ 358,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_gravel.png"]  // gravel airtype cursors
+
+	[  10,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype icons
+	[  35,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype icons
+	[  60,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype icons
+	[  85,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype icons
+	[ 110,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype icons
+	[ 135,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype icons
+	[ 160,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype icons
+	[ 185,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype icons
+	[ 210,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype icons
+	[ 235,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype icons
+	[ 260,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype icons
+
+	[  10,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype cursors
+	[  45,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype cursors
+	[  80,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype cursors
+	[ 115,   35,  30,  32,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype cursors
+	[ 148,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype cursors
+	[ 183,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype cursors
+	[ 218,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype cursors
+	[ 253,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype cursors
+	[ 288,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype cursors
+	[ 323,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype cursors
+	[ 358,   35,  32,  32,   0,   0, NOCROP, "sprites/png/jj/airport_water.png"]  // water airtype cursors
+
+}
+

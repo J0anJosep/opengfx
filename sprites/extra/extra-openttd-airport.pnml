@@ -14,4 +14,9 @@ replacenew(AIRPORTS, "") {
 	[ 162, 7848,  64,  31, -31,   0, "sprites/png/infrastructure/infra08.png"]
 	[ 242, 7848,  64,  31, -31,   0, "sprites/png/infrastructure/infra08.png"]
 	[ 322, 7848,  64,  31, -31,   0, "sprites/png/infrastructure/infra08.png"]
+	[ 224, 10568,  64,  31, -31,   0, "sprites/png/infrastructure/infra08.png"]
+	[ 304, 10568,  64,  31, -31,   0, "sprites/png/infrastructure/infra08.png"]
+	[ 384, 10568,  64,  31, -31,   0, "sprites/png/infrastructure/infra08.png"]
+	[ 462, 10568,  64,  31, -31,   0, "sprites/png/infrastructure/infra08.png"]
+	[ 538, 10568,  64,  31, -31,   0, "sprites/png/infrastructure/infra08.png"]
 }
