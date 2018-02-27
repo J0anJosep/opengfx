@@ -1,0 +1,9 @@
+VERSION        :- (0:)
+VERSION_STRING :- (0:)
+TITLE          :OpenGFXJJ - (0:)
+FILENAME       :ogfx1_base.grf ogfxc_arctic.grf ogfxh_tropical.grf ogfxt_toyland.grf ogfxi_logos.grf ogfxe_extra.grf
+REPO_DATE      :
+REPO_HASH      :
+REPO_BRANCH    :
+NEWGRF_VERSION :0
+DAYS_SINCE_2K  :
