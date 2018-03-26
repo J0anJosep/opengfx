@@ -1,7 +1,7 @@
 OpenGFX Readme - 8bpp Graphics Base Set for OpenTTD
 
 ==============================
-Current Version: OpenGFXJJ - (0:)
+Current Version: OpenGFXJJ 1970-01-01 (-10957:000000000000)
 ==============================
 
 Contents
