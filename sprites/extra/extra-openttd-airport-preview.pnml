@@ -1,11 +1,47 @@
 replacenew(AIRPORT_PREVIEW, "") {
-	[   0,    0, 230, 140,   0,   0, NOCROP, "sprites/png/extra/airport_preview_small.png"]
-	[   0,    0, 230, 140,   0,   0, NOCROP, "sprites/png/extra/airport_preview_city.png"]
-	[   0,    0, 230, 140,   0,   0, NOCROP, "sprites/png/extra/airport_preview_heliport.png"]
-	[   0,    0, 230, 140,   0,   0, NOCROP, "sprites/png/extra/airport_preview_metropolitan.png"]
-	[   0,    0, 230, 140,   0,   0, NOCROP, "sprites/png/extra/airport_preview_international.png"]
-	[   0,    0, 230, 140,   0,   0, NOCROP, "sprites/png/extra/airport_preview_commuter.png"]
-	[   0,    0, 230, 140,   0,   0, NOCROP, "sprites/png/extra/airport_preview_helidepot.png"]
-	[   0,    0, 230, 140,   0,   0, NOCROP, "sprites/png/extra/airport_preview_intercontinental.png"]
-	[   0,    0, 230, 140,   0,   0, NOCROP, "sprites/png/extra/airport_preview_helistation.png"]
+	[  20,   20, 224, 130,   0,   0, NOCROP, "sprites/png/jj/preview_small_temperate.png"]
+	[  20,  166, 224, 130,   0,   0, NOCROP, "sprites/png/jj/preview_small_temperate.png"]
+	[  20,  312, 224, 130,   0,   0, NOCROP, "sprites/png/jj/preview_small_temperate.png"]
+	[  20,  458, 224, 130,   0,   0, NOCROP, "sprites/png/jj/preview_small_temperate.png"]
+
+	[  20,   20, 192, 114,   0,   0, NOCROP, "sprites/png/jj/preview_city.png"]
+	[  20,  150, 192, 114,   0,   0, NOCROP, "sprites/png/jj/preview_city.png"]
+	[  20,  280, 192, 114,   0,   0, NOCROP, "sprites/png/jj/preview_city.png"]
+	[  20,  410, 192, 114,   0,   0, NOCROP, "sprites/png/jj/preview_city.png"]
+
+	[  20,   20,  64,  87,   0,   0, NOCROP, "sprites/png/jj/preview_heliport.png"]
+	[ 100,   20,  64,  87,   0,   0, NOCROP, "sprites/png/jj/preview_heliport.png"]
+	[ 180,   20,  64,  87,   0,   0, NOCROP, "sprites/png/jj/preview_heliport.png"]
+	[ 260,   20,  64,  87,   0,   0, NOCROP, "sprites/png/jj/preview_heliport.png"]
+
+	[  20,   20, 192, 114,   0,   0, NOCROP, "sprites/png/jj/preview_metropolitan.png"]
+	[  20,  150, 192, 114,   0,   0, NOCROP, "sprites/png/jj/preview_metropolitan.png"]
+	[  20,  280, 192, 114,   0,   0, NOCROP, "sprites/png/jj/preview_metropolitan.png"]
+	[  20,  410, 192, 114,   0,   0, NOCROP, "sprites/png/jj/preview_metropolitan.png"]
+
+	[  20,   20, 225, 138,   0,   0, NOCROP, "sprites/png/jj/preview_international.png"]
+	[  20,  174, 225, 138,   0,   0, NOCROP, "sprites/png/jj/preview_international.png"]
+	[  20,  328, 225, 138,   0,   0, NOCROP, "sprites/png/jj/preview_international.png"]
+	[  20,  482, 225, 138,   0,   0, NOCROP, "sprites/png/jj/preview_international.png"]
+
+	[  20,   20, 144,  99,   0,   0, NOCROP, "sprites/png/jj/preview_commuter.png"]
+	[  20,  129, 144,  99,   0,   0, NOCROP, "sprites/png/jj/preview_commuter.png"]
+	[  20,  238, 144,  99,   0,   0, NOCROP, "sprites/png/jj/preview_commuter.png"]
+	[  20,  347, 144,  99,   0,   0, NOCROP, "sprites/png/jj/preview_commuter.png"]
+
+	[  20,   20, 128,  69,   0,   0, NOCROP, "sprites/png/jj/preview_helidepot.png"]
+	[ 150,   20, 128,  85,   0,   0, NOCROP, "sprites/png/jj/preview_helidepot.png"]
+	[  20,  109, 128,  67,   0,   0, NOCROP, "sprites/png/jj/preview_helidepot.png"]
+	[ 150,  107, 128,  69,   0,   0, NOCROP, "sprites/png/jj/preview_helidepot.png"]
+
+	[  20,   20, 160,  85,   0,   0, NOCROP, "sprites/png/jj/preview_intercontinental.png"]
+	[  20,  121, 160,  85,   0,   0, NOCROP, "sprites/png/jj/preview_intercontinental.png"]
+	[  20,  222, 160,  85,   0,   0, NOCROP, "sprites/png/jj/preview_intercontinental.png"]
+	[  20,  323, 160,  85,   0,   0, NOCROP, "sprites/png/jj/preview_intercontinental.png"]
+
+	[  20,   20, 192, 117,   0,   0, NOCROP, "sprites/png/jj/preview_helistation.png"]
+	[ 214,   38, 192,  99,   0,   0, NOCROP, "sprites/png/jj/preview_helistation.png"]
+	[  20,  139, 192,  99,   0,   0, NOCROP, "sprites/png/jj/preview_helistation.png"]
+	[ 214,  139, 192, 101,   0,   0, NOCROP, "sprites/png/jj/preview_helistation.png"]
+
 }
