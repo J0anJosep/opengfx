@@ -318,52 +318,121 @@ replacenew ottd_gui175(OTTD_GUI, "", 175) {
 	[  65,    5,   8,   8,   0,   0, NOCROP, "sprites/png/jj/gui.png"]              // filter icon
 	[  80,    5,   8,   8,   0,   0, NOCROP, "sprites/png/jj/gui.png"]              // filter groups icon
 
-	[ 100,    5,  64,  31, -33,   1, NOCROP, "sprites/png/jj/water_features.png"]   // lock water x
-	[   5,    5,  64,  31, -29,   1, NOCROP, "sprites/png/jj/water_features.png"]   // lock water y
-
-	[  97,  250,  40,  39, -34, -11, NOCROP, "sprites/png/jj/water_features.png"]   // lock upper comp
-	[ 139,  250,  42,  39,  -3, -10, NOCROP, "sprites/png/jj/water_features.png"]   // lock upper comp
-	[  51,  250,  40,  39,  -7, -13, NOCROP, "sprites/png/jj/water_features.png"]   // lock upper cutted
-	[   5,  250,  42,  39, -36, -12, NOCROP, "sprites/png/jj/water_features.png"]   // lock upper cutted
-
+	[ 100,    5,  64,  31, -35,   2, NOCROP, "sprites/png/jj/water_features.png"]   // lock water x
+	[   5,    5,  64,  31, -27,   2, NOCROP, "sprites/png/jj/water_features.png"]   // lock water y
 	[ 275,  250,  40,  39,  -1, -11, NOCROP, "sprites/png/jj/water_features.png"]   // lock gate sw
 	[ 320,  250,  40,  39, -39, -11, NOCROP, "sprites/png/jj/water_features.png"]   // lock gate se
 
-	[   5,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
-	[  50,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
-	[  95,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
-	[ 140,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
-	[ 185,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
-	[ 230,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
-	[ 275,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
-	[ 320,   40,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling ne lock gate
+	[   5,   45,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[  50,   45,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[  95,   45,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 140,   45,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 185,   45,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 230,   45,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 275,   45,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 320,   45,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 365,   45,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
 
-	[   5,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
-	[  50,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
-	[  95,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
-	[ 140,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
-	[ 185,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
-	[ 230,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
-	[ 275,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
-	[ 320,   90,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // filling nw lock gate
+	[   5,   95,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[  50,   95,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[  95,   95,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 140,   95,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 185,   95,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 230,   95,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 275,   95,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 320,   95,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 365,   95,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
 
-	[   5,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
-	[  50,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
-	[  95,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
-	[ 140,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
-	[ 185,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
-	[ 230,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
-	[ 275,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
-	[ 320,  150,  40,  39, -30,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[   5,  300,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x cutted
+	[  50,  300,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[  95,  300,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 140,  300,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 185,  300,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 230,  300,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 275,  300,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 320,  300,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 365,  300,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
 
-	[   5,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
-	[  50,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
-	[  95,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
-	[ 140,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
-	[ 185,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
-	[ 230,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
-	[ 275,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
-	[ 320,  200,  40,  39,  -8,   7, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[   5,  350,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted
+	[  50,  350,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[  95,  350,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 140,  350,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 185,  350,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 230,  350,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 275,  350,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 320,  350,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 365,  350,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+
+	[   5,  400,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x high
+	[  50,  400,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[  95,  400,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 140,  400,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 185,  400,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 230,  400,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 275,  400,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 320,  400,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+	[ 365,  400,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x
+
+	[   5,  450,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y high
+	[  50,  450,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[  95,  450,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 140,  450,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 185,  450,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 230,  450,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 275,  450,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 320,  450,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+	[ 365,  450,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y
+
+	[   5,  500,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x cutted extra
+	[  50,  500,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x cutted extra
+	[  95,  500,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x cutted extra
+	[ 140,  500,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x cutted extra
+	[   5,  595,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x cutted extra
+	[  50,  595,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x cutted extra
+	[  95,  595,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x cutted extra
+	[   5,  690,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x cutted extra
+	[  50,  690,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x cutted extra
+	[   5,  785,  40,  39, -34, -20, NOCROP, "sprites/png/jj/water_features.png"]   // back x cutted extra
+
+	[   5,  550,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[  50,  550,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[  95,  550,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[ 140,  550,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[ 185,  550,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[ 230,  550,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[   5,  645,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[  50,  645,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[  95,  645,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[ 140,  645,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[ 185,  645,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[   5,  740,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[  50,  740,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[  95,  740,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[ 140,  740,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[   5,  835,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[  50,  835,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[  95,  835,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[   5,  890,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[  50,  890,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+	[   5,  935,  42,  39, -5, -19, NOCROP, "sprites/png/jj/water_features.png"]   // back y cutted extra
+
+	[   5,  150,  40,  39, -7,  -19, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[  50,  150,  40,  39, -7,  -19, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[  95,  150,  40,  39, -7,  -19, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[ 140,  150,  40,  39, -7,  -19, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[ 185,  150,  40,  39, -7,  -19, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[ 230,  150,  40,  39, -7,  -19, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[ 275,  150,  40,  39, -7,  -19, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+	[ 320,  150,  40,  39, -7,  -19, NOCROP, "sprites/png/jj/water_features.png"]   // moving ne lock gate
+
+	[   5,  200,  40,  39,  -32, -18, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[  50,  200,  40,  39,  -32, -18, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[  95,  200,  40,  39,  -32, -18, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[ 140,  200,  40,  39,  -32, -18, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[ 185,  200,  40,  39,  -32, -18, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[ 230,  200,  40,  39,  -32, -18, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[ 275,  200,  40,  39,  -32, -18, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
+	[ 320,  200,  40,  39,  -32, -18, NOCROP, "sprites/png/jj/water_features.png"]   // moving nw lock gate
 
 	[  10,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
 	[  35,   10,  20,  20,   0,   0, NOCROP, "sprites/png/jj/airport_asphalt.png"]  // asphalt airtype icons
