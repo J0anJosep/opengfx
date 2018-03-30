@@ -19,4 +19,179 @@ replacenew(AIRPORTS, "") {
 	[ 384, 10568,  64,  31, -31,   0, "sprites/png/infrastructure/infra08.png"]
 	[ 462, 10568,  64,  31, -31,   0, "sprites/png/infrastructure/infra08.png"]
 	[ 538, 10568,  64,  31, -31,   0, "sprites/png/infrastructure/infra08.png"]
+
+	// Gravel ground
+	[ 500,    10,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 575,    10,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 650,    10,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 725,    10,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 800,    10,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+
+	// Gravel middle runways
+	[ 950,    10,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 875,    10,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 950,    92,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 875,   133,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 950,   133,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 875,    51,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 950,    51,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 875,    92,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+
+	// Gravel starting runways allow, not allow
+	[ 1025,    10,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1025,   133,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1025,    51,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1025,    92,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1025,   175,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1025,   298,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1025,   216,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1025,   257,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+
+	// Gravel ending runways allow, not allow
+	[ 1100,    10,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1100,   133,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1100,    51,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1100,    92,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1100,   175,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1100,   298,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1100,   216,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 1100,   257,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+
+	// Hangars normal
+	[  500,    90,  64,  50,  -3, -33, "sprites/png/jj/airport_gravel.png"]
+	[  580,    90,  64,  50, -59, -33, "sprites/png/jj/airport_gravel.png"]
+	[  660,    90,  64,  50, -31, -19, "sprites/png/jj/airport_gravel.png"]
+	[  740,    90,  64,  50, -31, -19, "sprites/png/jj/airport_gravel.png"]
+	// Hangars snow
+	[  500,   165,  64,  50,  -3, -33, "sprites/png/jj/airport_gravel.png"]
+	[  580,   165,  64,  50, -59, -33, "sprites/png/jj/airport_gravel.png"]
+	[  660,   165,  64,  50, -31, -19, "sprites/png/jj/airport_gravel.png"]
+	[  740,   165,  64,  50, -31, -19, "sprites/png/jj/airport_gravel.png"]
+	// Hangars ground
+	[  500,   240,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[  575,   240,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	// Hangars back
+	[  500, 290, 64, 30, -31, -1,   0, "sprites/png/jj/airport_gravel.png"]
+	[  575, 290, 64, 30, -31, -1,   0, "sprites/png/jj/airport_gravel.png"]
+
+	// Terminals
+	[ 500,    50,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+	[ 575,    50,  64,  31, -31,   0, "sprites/png/jj/airport_gravel.png"]
+
+	// Asphalt ground
+	[ 500,    10,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 575,    10,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 650,    10,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 725,    10,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 800,    10,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+
+	// Asphalt middle runways
+	[ 950,    10,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 875,    10,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 950,    92,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 875,   133,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 950,   133,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 875,    51,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 950,    51,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 875,    92,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+
+	// Asphalt starting runways allow, not allow
+	[ 1025,    10,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1025,   133,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1025,    51,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1025,    92,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1025,   175,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1025,   298,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1025,   216,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1025,   257,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+
+	// Asphalt ending runways allow, not allow
+	[ 1100,    10,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1100,   133,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1100,    51,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1100,    92,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1100,   175,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1100,   298,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1100,   216,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 1100,   257,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+
+	// Hangars normal -33 -16
+	[  500,    90,  64,  53,  -3, -36, "sprites/png/jj/airport_asphalt.png"]
+	[  575,    90,  64,  53, -59, -36, "sprites/png/jj/airport_asphalt.png"]
+	[  650,    90,  64,  53, -33, -21, "sprites/png/jj/airport_asphalt.png"]
+	[  725,    90,  64,  53, -33, -21, "sprites/png/jj/airport_asphalt.png"]
+	// Hangars snow
+	[  500,   165,  64,  53,  -4, -34, "sprites/png/jj/airport_asphalt.png"]
+	[  575,   165,  64,  53, -30, -35, "sprites/png/jj/airport_asphalt.png"]
+	[  650,   165,  64,  53, -32, -20, "sprites/png/jj/airport_asphalt.png"]
+	[  725,   165,  64,  53, -32, -20, "sprites/png/jj/airport_asphalt.png"]
+	// Hangars ground
+	[  500,   240,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[  575,   240,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	// Hangars back
+	[  500, 290, 64, 30, -31, -1,   0, "sprites/png/jj/airport_asphalt.png"]
+	[  575, 290, 64, 30, -31, -1,   0, "sprites/png/jj/airport_asphalt.png"]
+
+	// Terminals
+	[ 500,    50,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+	[ 575,    50,  64,  31, -31,   0, "sprites/png/jj/airport_asphalt.png"]
+
+	// Water ground
+	[ 500,    10,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 575,    10,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 650,    10,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 725,    10,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 800,    10,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+
+	// Water middle runways
+	[ 950,    10,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 875,    10,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 950,    92,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 875,   133,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 950,   133,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 875,    51,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 950,    51,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 875,    92,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+
+	// Water starting runways allow, not allow
+	[ 1025,    10,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1025,   133,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1025,    51,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1025,    92,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1025,   175,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1025,   298,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1025,   216,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1025,   257,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+
+	// Water ending runways allow, not allow
+	[ 1100,    10,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1100,   133,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1100,    51,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1100,    92,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1100,   175,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1100,   298,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1100,   216,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 1100,   257,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+
+	// Hangars normal
+	[  500,    90,  64,  50,  -3, -33, "sprites/png/jj/airport_water.png"]
+	[  580,    90,  64,  50, -59, -33, "sprites/png/jj/airport_water.png"]
+	[  660,    90,  64,  50, -31, -19, "sprites/png/jj/airport_water.png"]
+	[  740,    90,  64,  50, -31, -19, "sprites/png/jj/airport_water.png"]
+	// Hangars snow
+	[  500,   165,  64,  50,  -3, -33, "sprites/png/jj/airport_water.png"]
+	[  580,   165,  64,  50, -59, -33, "sprites/png/jj/airport_water.png"]
+	[  660,   165,  64,  50, -31, -19, "sprites/png/jj/airport_water.png"]
+	[  740,   165,  64,  50, -31, -19, "sprites/png/jj/airport_water.png"]
+	// Hangars ground
+	[  500,   240,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[  575,   240,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	// Hangars back
+	[  500, 290, 64, 30, -31, -1,   0, "sprites/png/jj/airport_water.png"]
+	[  575, 290, 64, 30, -31, -1,   0, "sprites/png/jj/airport_water.png"]
+
+	// Terminals
+	[ 500,    50,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+	[ 575,    50,  64,  31, -31,   0, "sprites/png/jj/airport_water.png"]
+
 }
